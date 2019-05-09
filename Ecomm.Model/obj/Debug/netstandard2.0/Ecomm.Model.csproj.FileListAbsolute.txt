@@ -1,0 +1,17 @@
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.deps.json
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.pdb
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.AssemblyInfoInputs.cache
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.AssemblyInfo.cs
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Documents\mylab\lab4\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.pdb
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.deps.json
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\bin\Debug\netstandard2.0\Ecomm.Model.pdb
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.csprojAssemblyReference.cache
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.AssemblyInfoInputs.cache
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.AssemblyInfo.cs
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.dll
+C:\Users\ISInc\Documents\mylab\mygithub\myfirstgitproject\Ecomm.Model\obj\Debug\netstandard2.0\Ecomm.Model.pdb
